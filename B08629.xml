@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case briefly stated between the East-India Company of the United Netherlands and the assigns of William Courten with some queries resolved upon the case.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08629</idno>
+            <idno type="STC">Wing C860A</idno>
+            <idno type="STC">ESTC R173427</idno>
+            <idno type="EEBO-CITATION">62369065</idno>
+            <idno type="OCLC">ocm 62369065</idno>
+            <idno type="VID">187820</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187820)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2846:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case briefly stated between the East-India Company of the United Netherlands and the assigns of William Courten with some queries resolved upon the case.</title>
+               </titleStmt>
+               <extent>2+ p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: lacks all after page 2 ; pages creased and stained with some loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courten, William, d. 1655 --  Trials, litigation, etc.</term>
+               <term>Nederlandsche Oost-Indische Compagnie --  Trials, litigation, etc.</term>
+               <term>Treaty of Breda (1667)</term>
+               <term>Debtor and creditor --  Great Britain --  Early works to 1800.</term>
+               <term>Debtor and creditor --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:187820:1" rendition="simple:additions"/>
+            <head>
+               <hi>The</hi> CASE <hi>briefly ſtated, between the</hi> Eaſt-India Company <hi>of the</hi> United Netherlands, <hi>and the Aſſigns of</hi> William Courten, <hi>with ſome Queries reſolved upon the</hi> Caſe,</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Illiam Courten</hi> of <hi>London</hi> Merchant,
+<note place="margin">May 12. 1641.</note> being intereſted in the two Ships named the <hi>Henry B<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a Adventure,</hi> and <hi>Bona Eſperanza,</hi> ſets them forth <hi>(inter alia)</hi> to Sea for trading Voyages in the <hi>Eaſt-Indies.</hi>
+            </p>
+            <p>
+               <hi>William Courten</hi> being <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bred to ſeveral perſons for 100000 <hi>l.</hi>
+               <note place="margin">Apr. 26. 1642.</note> and upwards, and Sir <hi>Edward Littleton</hi> being bound with him for the ſaid Debts, <hi>W. Courten</hi> grants all his Intereſt, Stock, Freight, and Mer<g ref="char:EOLhyphen"/>chandizes in the ſaid Ships <hi>(inter alia)</hi> to Sir <hi>Edward Littleton</hi> for the Conſideration of 20 <hi>s.</hi> and to indempnifie him from the ſaid Debts; Provided that if <hi>William Courten</hi> or his Executors pay the ſaid Debts within 27 months, and fave Sir <hi>Edward Littleton</hi> harmleſs, then the Grant to be void.</p>
+            <p>
+               <hi>William Courten</hi> and Sir <hi>Edward Littleton</hi> by Indenture tripartite,
+<note place="margin">Dec. 19 1642.</note> reciting the firſt Deed, and a great debt of 24000 <hi>l.</hi> due to Sir <hi>Paul Pindar,</hi> for a further ſecurity of that debt, grants to Sir <hi>Paul Pindar,</hi> his Executors and Aſſigns, all the ſaid Ships Stock, Merchandize, and their whole Intereſt therein with the policies of Aſſurance, under divers agreements; the effect whereof is, that Sir <hi>Paul Pindar</hi> ſhould have ſatisfaction by ſeveral proportions out of each Ship, and the reſidue to be to Sir <hi>Edward Littleton</hi> for the purpoſes in the ſaid Indenture; by all which it appears, that Sir <hi>Paul Pindar</hi> was not to have more then ſatisfaction of his Debt, but after that ſhould be ſatisfied in fuch manner as is expreſſed in the ſaid Indenture, the benefit of the Surplus was to be for Sir <hi>Edward Littleton</hi> and <hi>William Courten.</hi>
+            </p>
+            <p>The Debts for which Sir <hi>Edward Littleton</hi> was bound, are not diſcharged within the 27 months, nor yet are diſcharged to this time, <hi>Anno</hi> 1663.</p>
+            <p>The Ship <hi>Bona Eſperanz<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and her L<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding is ſurprized in her Voyage by the Agent:
+<note place="margin">Anno <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> and Miniſters of the <hi>Eaſt-India Company</hi> of the <hi>Netherlands,</hi> and the <hi>Bona Adventure</hi> taken into their poſſeſſion, to the damage of the Proprietors 85000 <hi>l. ſterl.</hi> as appears by the proofs taken in the Court of Admiralty; beſides the <hi>damnum emergens</hi> by loſs of their Trade.</p>
+            <p>
+               <hi>William Courten</hi> makes a Letter of Atturney to <hi>Jacob Pergens</hi> of <hi>Amſterdam,</hi>
+               <note place="margin">Oct. 26. 1645.</note> to ſue the <hi>Eaſt-India Company</hi> for the ſaid Ships and Goods, to the uſe of <hi>Courten.</hi>
+            </p>
+            <p>Sir <hi>Paul Pindar</hi> makes a Letter of Atturney to <hi>Jonas Abeeles</hi> of <hi>Amſterdam,</hi>
+               <note place="margin">Feb. 11. 1647.</note> to ſue the ſaid Company for the Ships and Goods, to the uſe of <hi>Pindar,</hi> and ſent over his Indenture tripartite, ſetting forth the aſſurance and condition of the Grant at large.</p>
+            <p>
+               <hi>William Courten</hi> having abſented himſelf from <hi>England,</hi>
+               <note place="margin">Feb. 22. 1648.</note> did in <hi>Holland</hi> make a pretended Bargain and tranſport of the ſaid Ships and Goods to <hi>Jacob Pergens.</hi>
+            </p>
+            <p>
+               <hi>Jonas Abeeles</hi> intimated his Claim in writing,
+<note place="margin">May 25. 1648.</note> and ſent it by a publick Notary to the Directors of the <hi>Eaſt-India Company,</hi> ſetting forth his Procuration from Sir <hi>Paul Pindar,</hi> and the Grant to him from <hi>Courten</hi> and <hi>Littleton</hi> as aforeſaid; proteſting that if they made any agreement with <hi>Pergens,</hi> it ſhould be of no effect, and that they ſhould pay the money again to him in right of Sir <hi>Paul Pindar.</hi>
+            </p>
+            <p>
+               <hi>Jonas Abeeles</hi> cauſed to be arreſted in the hands of the <hi>Eaſt-India Company,</hi>
+               <note place="margin">Nov. 13. 1648.</note> all the money and total ſumme which ſhould by liquidation and agreement to be made with the ſaid <hi>Courten</hi> for the ſaid Ships and Goods and the <hi>Eſcheevens</hi> in Court declared the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be v<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+            <p>Notwithſtanding the ſaid Intimation, proteſt and Arreſt,
+<note place="margin">Sept. 18. 1649.</note> the Directors of the <hi>Eaſt-India Company</hi> alledging the King of <hi>England</hi> was dead, made an agreement with the ſaid <hi>Jacob Pergens</hi> and one <hi>David Goubart</hi> for 85000 <hi>Gilders,</hi> for the Ships, Goods and Dammages aforeſaid, which was paid accordingly, upon caution given by the faid <hi>Jacob Pergens</hi> and <hi>Peter Boudan Courten,</hi> to indempnifie the ſaid Company againſt <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>indar</hi> and others.</p>
+            <p>
+               <hi>Jonas Abeeles</hi> brought an Action Before the <hi>Eſcheevens</hi> in <hi>Amſterdam,</hi>
+               <note place="margin">Febr. 17. 1650.</note> againſt the Directors of the <hi>Eaſt-India Company,</hi> for the ſaid 85000 <hi>Gilders</hi> with Intereſt for the ſame, untill effectual payment thereof to him for the uſe of <hi>Pindar.</hi>
+            </p>
+            <pb n="2" facs="tcp:187820:2" rendition="simple:additions"/>
+            <p>The Directors of the <hi>Eaſt-India Company</hi> ſummoned <hi>Jacob Pergens</hi> and <hi>Peter Boudan Courten</hi> before the ſaid <hi>Eſcheevens,</hi>
+               <note place="margin">Sept 13. 1652.</note> to indempnifie them from all after Claims of money, and to free them from all Coſts and Damages of Sir <hi>Paul Pindar</hi> and others.</p>
+            <p>Sir <hi>Paul Pindar</hi> dyed,
+<note place="margin">Anno 1652.</note> and ſoon after <hi>Jonas Abeeles</hi> dyed, ſo the buſineſs reſted untill the Kings moſt happy reſtauration into <hi>England.</hi>
+            </p>
+            <p>Upon his Majeſties Letters to the <hi>States General,</hi>
+               <note place="margin">Anno 1662.</note> requiring ſatisfaction and repara<g ref="char:EOLhyphen"/>tion to be given to the partie<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> intereſted and injured, after many debates between Sir <hi>George Downing</hi> Knight and Barone<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us Majeſties Envoy Extraordinary, and the Deputies of the <hi>States General</hi> for <hi>Engliſh</hi> Affairs, the Damages of the two Ships were excepted in the 15. Article of the Treaty made the 4th. of <hi>September</hi> 1662. from the general abolition of Injuries and Da<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es, in theſe words: <hi>Hoc excepto, quod ſcilicet qui ſe jacturam paſſos dicant in duab<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, viz.</hi> Bona Ad<gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eſpe<g ref="char:EOLhyphen"/>ranza, <hi>poterunt litem inceptam proſe <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Which was to be <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the way Sir <hi>George Downing</hi> had begun by the Kings Orders and Commands.</p>
+            <p>Sir <hi>George Downing</hi> in purſuance of his Majeſties further Orders,
+<note place="margin">An. 1663. &amp; 1664.</note> made ſeveral freſh Addreſſes to the <hi>States General</hi> for ſatisfaction of the ſaid Damages, and that they would Order the <hi>Eaſt-India Company</hi> to liquidate the Accounts, and make reſtitution accordingly.</p>
+            <p>During the ſaid diſpute and controverſie, the Advocates of the <hi>Eaſt-India Company</hi> made theſe two Objections,</p>
+            <p>Firſt, <hi>That the Grants to Sir</hi> Edward Littleton <hi>and Sir</hi> Paul Pindar <hi>were not good and effectual in Law, being only a Security, and that movables could not be transferred by Deed, without the poſſeſſion given.</hi>
+            </p>
+            <p>Secondly, <hi>That the Aſſignment from</hi> Courten <hi>to</hi> Pergens <hi>was valid, and the Compo<g ref="char:EOLhyphen"/>ſition made by him with the</hi> Eaſt-India Company <hi>good and effectual againſt</hi> Littleton <hi>and</hi> Pindar.</p>
+            <p>And deſired to ſee the Opinions and Reſolution of the moſt able Lawyers in <hi>England</hi> under their Hands, as to thoſe Points, which was returned into <hi>Holland</hi> ſubſcribed by Sir <hi>John Glynn,</hi> Sir <hi>John Maynard,</hi> and Sir <hi>Edward Turnor</hi> Speaker in Parliament, giving their Reaſons of the Law in the Caſe at large; affirming, That the Grant to Sir <hi>Paul Pindar</hi> was good and conſequently that to <hi>Jacob Pergens</hi> void: aſſerting, <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Amſter<g ref="char:EOLhyphen"/>dam, <hi>for that the poſſeſſion by the Law of</hi> England <hi>goeth with the property, and where the right or property is, there by the Law is the poſſeſſion, unleſs ſome other perſon obtain actual poſſeſſion as a Treſpaſſer.</hi> Yet all proved ineffectual and to no purpoſe.</p>
+            <p>Then the King by his Letters Patents under the Great Seal of <hi>England,</hi>
+               <note place="margin">Anno 1665.</note> reciting the ſubſtance of all the proceedings, with the Debt ſtated by the Judge of the High Court of Admiralty, amounting to 151612 <hi>l.</hi> and in whom the Property was veſted, gave Commiſſion and Authority to Sir <hi>Edmund Turnor</hi> Knight, and <hi>George Carew</hi> Eſq to equipp and ſet forth Ships and Pinnaces to Sea, to ſeiſe and apprehend the Ships, Goods and Merchandizes of the Subjects of the <hi>States General,</hi> to be of force untill they ſhould have reprized the ſaid Debt, Damages and Charges to the uſe of them<g ref="char:EOLhyphen"/>ſelves, and the reſt of the perſons intereſted in the ſame.</p>
+            <p>That after vaſt expences in ſetting forth Ships to reprize the ſaid Damages, and before any thing conſiderable was gotten towards the charge of equipping the ſaid Private Men of War, the <hi>Dutch</hi> during the Treaty at <hi>Breda</hi> made ſeveral Attaques upon his Majeſties Ships at <hi>Chatham,</hi> and other Ports, and procured theſe Articles following <hi>(inter alia)</hi> to be agreed upon in the ſaid Tre<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Scotland, France <hi>and</hi> Ireland, <hi>and the States General of the</hi> United Ne<g ref="char:EOLhyphen"/>therlands, <hi>concluded at</hi> Breda <hi>July</hi> 
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>/<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 1667.</p>
+            <div type="part">
+               <head>
+                  <hi>Artic.</hi> 3.</head>
+               <p>Alſo, That all Offences, Injuries, Damages, Loſſes, which his ſaid Majeſty and his Subjects, or the foreſaid States General and their Subjects have on either ſide ſuſtained during this War, or at any time whatſoever heretofore, upon what Cauſe or Pretence ſoever, be buried in Oblivion, and totally expunged out of Remembrance, as if no ſuch things had ever paſt.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
